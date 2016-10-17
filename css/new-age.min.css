@@ -444,9 +444,9 @@ footer ul li a:hover {
 }
 
 .bg-primary {
-    background: #fdcc52;
-    background: -webkit-linear-gradient(#fdcc52, #fdc539);
-    background: linear-gradient(#fdcc52, #fdc539)
+    background: #fff;
+    background: -webkit-linear-gradient(#fff, #fff);
+    background: linear-gradient(#fff, #fff)
 }
 
 .text-primary {
